@@ -1,25 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This was a simple RoR app used by a certain Mail courier,,,basically postmen would use it to report aboutlost or changed keys at all the places they where supposed to deliver to etc.
 
-Things you may want to cover:
+* Ruby version 2.1.1
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* System dependencies - many just check the files
 
 * ...
 # jex

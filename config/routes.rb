@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :issues
   mount RailsAdmin::Engine => '/mukuru', as: 'rails_admin'
   resources :posts
   devise_for :users
